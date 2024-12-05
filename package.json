@@ -1,0 +1,21 @@
+{
+    "name": "meu-projeto-vue",
+    "version": "1.0.0",
+    "description": "Projeto exemplo com Vue.js",
+    "main": "src/main.js",
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "vue": "^3.0.0"
+    },
+    "devDependencies": {
+        "@vue/cli-service": "^5.0.0"
+    },
+    "browserslist": "> 1%, last 2 versions, not dead",
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
